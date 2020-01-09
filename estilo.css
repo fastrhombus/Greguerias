@@ -1,0 +1,36 @@
+@charset "utf-8";
+body {
+    background-color: rgb(45, 134, 82);
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 300%;
+    text-transform: capitalize;
+}
+
+p {
+    font-size: 150%;
+}
+
+p.blanca {
+    color: white;
+    font-family: serif;
+    font-style: oblique;
+}
+
+p.clara {
+    color: rgb(255, 223, 179);
+    font-family: sans-serif;
+}
+
+p.naranja {
+    color: rgb(255, 159, 26);
+    font-family: monospace;
+    font-size: 200%;
+}
+
+p.rojo {
+    color: rgb(230, 25, 77);
+    font-family: cursive;
+}
